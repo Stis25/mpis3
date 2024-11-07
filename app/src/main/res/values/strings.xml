@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab 7 Тунчик Антон АС-63</string>
+
+    <string name="auth_title">Автор</string>
+    <string name="auth_input_name">Имя</string>
+    <string name="auth_input_lastname">Фамилия</string>
+    <string name="auth_input_phone">Телефон</string>
+    <string name="auth_btn_register">Регистрация</string>
+    <string name="auth_btn_login">Войти</string>
+
+    <string name="main_title">Добро пожаловать!</string>
+    <string name="main_phone">Ваш телефон!</string>
+    <string name="main_no_path">Не выбран путь</string>
+    <string name="main_set_path">Выбрать путь</string>
+    <string name="main_call_taxi">Вызвать такси</string>
+    <string name="main_path_layout_from_to">От → Дo</string>
+    <string name="main_path_layout_datetime">08.11.2024, 14:00:</string>
+    <string name="main_path_layout_info">Пассажиры, Бизнес</string>
+
+    <string name="set_path_from">От → Дo</string>
+    <string name="set_path_details">Детали</string>
+    <string name="set_path_call_taxi">Продолжить</string>
+    <string name="set_path_input_from">От</string>
+    <string name="set_path_input_to">Дo</string>
+    <string name="set_path_input_date">Дата</string>
+    <string name="set_path_input_time">Время</string>
+    <string name="set_path_input_passengers">Количество пассажиров</string>
+    <string name="set_path_input_car_type">Тип авто</string>
+
+    <string name="author">Тунчик Антон Дмитриевич</string>
+    <string name="authorBtn">Автор</string>
+</resources>
